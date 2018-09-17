@@ -34,6 +34,11 @@ II. Concepts
 
 ### StatelessWidget and StatefullWidget
 
+> Stateless widgets are immutable, meaning that their properties can’t change—all values are final.
+>
+> [Step 3: Add a Stateful widget](https://flutter.io/get-started/codelab/)
+
+
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 [emulator-or-simulator]: https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference
@@ -42,6 +47,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTE5OTc3NjIxNCwtMzEzNzcxMzc1LDIwMjQ3MTg0MTcsLTEzND
-kyMTk1NjEsLTE1NjI4MjQ0MDRdfQ==
+LTEyMDIwNjc2MDgsLTMxMzc3MTM3NSwyMDI0NzE4NDE3LC0xMz
+Q5MjE5NTYxLC0xNTYyODI0NDA0XX0=
 -->
