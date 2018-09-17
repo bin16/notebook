@@ -23,7 +23,7 @@ I. Getting Start
 
 - `lib/main.dart` ⇒ entry of the project
 - `pubspec.yml` and `pubspec.lock` ⇒ dependencies and configuration
-- ... // Todo tuo'fo
+- ...✍
 
 II. Concepts
 ----
@@ -42,6 +42,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTEzMDQzMzg5ODMsLTMxMzc3MTM3NSwyMDI0NzE4NDE3LC0xMz
-Q5MjE5NTYxLC0xNTYyODI0NDA0XX0=
+LTE5OTc3NjIxNCwtMzEzNzcxMzc1LDIwMjQ3MTg0MTcsLTEzND
+kyMTk1NjEsLTE1NjI4MjQ0MDRdfQ==
 -->
