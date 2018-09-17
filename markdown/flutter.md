@@ -12,9 +12,12 @@ I. Getting Start
 - https://flutter.io/get-started/install/
 - https://flutter.io/setup-windows/
 
-I've Powershell, Git and VS Code.
+Install PowerShell, Git, VS Code
+
+1. download sdk
+2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDI0MjI2NiwtMTU2MjgyNDQwNF19
+eyJoaXN0b3J5IjpbLTU1MjMxMDYyNCwtMTU2MjgyNDQwNF19
 -->
