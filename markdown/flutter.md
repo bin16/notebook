@@ -21,8 +21,9 @@ I. Getting Start
 
 ### Project Structure
 
-- lib/main.dart
-- pu
+- `lib/main.dart` ⇒ entry of the project
+- `pubspec.yml` and `pubspec.lock` ⇒ dependencies and configuration
+- // tODO
 
 II. Concepts
 ----
@@ -37,6 +38,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTEzMzE2NzQ5NTEsMjAyNDcxODQxNywtMTM0OTIxOTU2MSwtMT
-U2MjgyNDQwNF19
+MTIxMzY2MjY0MCwyMDI0NzE4NDE3LC0xMzQ5MjE5NTYxLC0xNT
+YyODI0NDA0XX0=
 -->
