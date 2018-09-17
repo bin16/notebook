@@ -17,7 +17,8 @@ I. Getting Start
 2. Download the Flutter SDK and update path environment
 3. `flutter doctor` to check environment. You need Flutter, Android toolchain and one IDE and a device(or emulator).
 4. I use VS Code, easy to find the Flutter extension.
-5. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>, `flutter new` to create a project.
+5. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>, `Flutter: new project` to create a project.
+6. And `flutter run` to build and run the app on you ndevice
 
 
 
@@ -25,6 +26,10 @@ I. Getting Start
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 [emulator-or-simulator]: https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDcxODQxNywtMTM0OTIxOTU2MSwtMT
-U2MjgyNDQwNF19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
+xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
+b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
+FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
+MTY0NjQ1MzA2MywyMDI0NzE4NDE3LC0xMzQ5MjE5NTYxLC0xNT
+YyODI0NDA0XX0=
 -->
