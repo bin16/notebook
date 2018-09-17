@@ -19,10 +19,15 @@ I. Getting Start
 4. I use VS Code, easy to find the Flutter extension.
 5. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>, `flutter new project` to create a project. And `flutter run` to build and run the app on your connected device.
 
+### Project Structure
+
+- lib/main.dart
+- pu
+
 II. Concepts
 ----
 
-
+### Stateless Widget and Statefull Widget
 
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
@@ -32,6 +37,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-MTAxNTQ2OTI4MywyMDI0NzE4NDE3LC0xMzQ5MjE5NTYxLC0xNT
-YyODI0NDA0XX0=
+LTEzMzE2NzQ5NTEsMjAyNDcxODQxNywtMTM0OTIxOTU2MSwtMT
+U2MjgyNDQwNF19
 -->
