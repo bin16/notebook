@@ -16,7 +16,7 @@ I. Getting Start
 1. Install PowerShell, Git, VS Code and Android Studio
 2. Download the Flutter SDK and update path environment
 3. `flutter doctor` to check environment. You need Flutter, Android toolchain and one IDE and a device(or emulator).
-4. 
+4. I use VS Code, easy to found the extension.
 
 
 
@@ -24,6 +24,6 @@ I. Getting Start
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 [emulator-or-simulator]: https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkyMTk1NjEsLTE1NjI4MjQ0MDRdfQ
-==
+eyJoaXN0b3J5IjpbLTQ5NzU4MjAwNiwtMTM0OTIxOTU2MSwtMT
+U2MjgyNDQwNF19
 -->
