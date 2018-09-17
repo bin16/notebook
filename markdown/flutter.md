@@ -11,13 +11,12 @@ I. Getting Start
 
 - https://flutter.io/get-started/install/
 - https://flutter.io/setup-windows/
+- https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 
-Install PowerShell, Git, VS Code
-
-1. download sdk
-2. 
+1. Install PowerShell, Git, VS Code and Android Studio
+2. Download the Flutter SDK and set up environment 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjMxMDYyNCwtMTU2MjgyNDQwNF19
+eyJoaXN0b3J5IjpbMTU0NDMyMTc4OCwtMTU2MjgyNDQwNF19
 -->
