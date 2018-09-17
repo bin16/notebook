@@ -23,12 +23,16 @@ I. Getting Start
 
 - `lib/main.dart` ⇒ entry of the project
 - `pubspec.yml` and `pubspec.lock` ⇒ dependencies and configuration
-- // tODO
+- ... // Todo
 
 II. Concepts
 ----
 
-### Stateless Widget and Statefull Widget
+### Widget
+
+
+
+### StatelessWidget and StatefullWidget
 
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
@@ -38,6 +42,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-MTIxMzY2MjY0MCwyMDI0NzE4NDE3LC0xMzQ5MjE5NTYxLC0xNT
+LTMxMzc3MTM3NSwyMDI0NzE4NDE3LC0xMzQ5MjE5NTYxLC0xNT
 YyODI0NDA0XX0=
 -->
