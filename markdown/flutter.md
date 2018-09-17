@@ -34,11 +34,12 @@ II. Concepts
 
 ### StatelessWidget and StatefullWidget
 
-> State<i>less</i> widgets are immutable, meaning that their properties can’t change—all values are final.
+> State<em>less</em> widgets are immutable, meaning that their properties can’t change—all values are final.
 >
-> State<i>ful</i> widgets maintain state that might change during the lifetime of the widget. Implementing a stateful widget requires at least two classes: 1) a StatefulWidget class that creates an instance of 2) a State class. The StatefulWidget class is, itself, immutable, but the State class persists over the lifetime of the widget.
+> State<em>ful</em> widgets maintain state that might change during the lifetime of the widget. Implementing a stateful widget requires at least two classes: 1) a StatefulWidget class that creates an instance of 2) a State class. **The StatefulWidget class is, itself, immutable, but the State class persists over the lifetime of the widget**.
 >
 > [Step 3: Add a Stateful widget](https://flutter.io/get-started/codelab/)
+
 
 
 
@@ -49,6 +50,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTE5OTE1MzgwMzUsLTMxMzc3MTM3NSwyMDI0NzE4NDE3LC0xMz
-Q5MjE5NTYxLC0xNTYyODI0NDA0XX0=
+LTYwNDQzOTcwNywtMzEzNzcxMzc1LDIwMjQ3MTg0MTcsLTEzND
+kyMTk1NjEsLTE1NjI4MjQ0MDRdfQ==
 -->
