@@ -40,7 +40,7 @@ II. Concepts
 >
 > [Step 3: Add a Stateful widget](https://flutter.io/get-started/codelab/)
 
-Difference between stateless widget and stateful widget is their lifetime, or actually, the state object's lifetime.
+Difference between stateless widget and stateful widget is their lifetime, or actually, the state object.
 
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
@@ -50,7 +50,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTExOTQyNjA0NDAsMTM5NTI4NjAzMiwtNjA0NDM5NzA3LC0zMT
+LTE5ODYxNTYxNjcsMTM5NTI4NjAzMiwtNjA0NDM5NzA3LC0zMT
 M3NzEzNzUsMjAyNDcxODQxNywtMTM0OTIxOTU2MSwtMTU2Mjgy
 NDQwNF19
 -->
