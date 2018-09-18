@@ -49,7 +49,8 @@ III. How-Tos
 ### How to add local images?
 
 1. Create a folder with your images.
-2. Add the image file to  
+2. Add the image file to asset section in pubspec.yml(comments would tell you how to do that)
+3. `Image.asset(...)` 
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 [emulator-or-simulator]: https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference
@@ -58,7 +59,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTk1NDMwNzM1NCwtMTk4NjE1NjE2NywxMzk1Mjg2MDMyLC02MD
+MTIwNjAxNzMwNCwtMTk4NjE1NjE2NywxMzk1Mjg2MDMyLC02MD
 Q0Mzk3MDcsLTMxMzc3MTM3NSwyMDI0NzE4NDE3LC0xMzQ5MjE5
 NTYxLC0xNTYyODI0NDA0XX0=
 -->
