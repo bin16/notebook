@@ -57,6 +57,7 @@ III. How-Tos
 <!--
 - That first column takes a lot of space, so it must be wrapped in an Expanded widget. https://flutter.io/tutorials/layout/
 - The `softwrap` property indicates whether the text should break on soft line breaks, such as periods or commas.
+- 
 -->
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
@@ -66,8 +67,8 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTkwNzYzMDM2MywtMjA1OTYxNjEyMCwtMTY1Mzg2MDY1OCwtMT
-k4NjE1NjE2NywxMzk1Mjg2MDMyLC02MDQ0Mzk3MDcsLTMxMzc3
-MTM3NSwyMDI0NzE4NDE3LC0xMzQ5MjE5NTYxLC0xNTYyODI0ND
-A0XX0=
+LTcyNDAyMDI3OCwtOTA3NjMwMzYzLC0yMDU5NjE2MTIwLC0xNj
+UzODYwNjU4LC0xOTg2MTU2MTY3LDEzOTUyODYwMzIsLTYwNDQz
+OTcwNywtMzEzNzcxMzc1LDIwMjQ3MTg0MTcsLTEzNDkyMTk1Nj
+EsLTE1NjI4MjQ0MDRdfQ==
 -->
