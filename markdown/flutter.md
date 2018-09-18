@@ -30,7 +30,7 @@ II. Concepts
 
 ### Widget
 
-
+...✍
 
 ### StatelessWidget and StatefullWidget
 
@@ -40,7 +40,7 @@ II. Concepts
 >
 > [Step 3: Add a Stateful widget](https://flutter.io/get-started/codelab/)
 
-Difference between stateless widget and stateful widget is their lifetime, or actually, the state object.
+Difference between stateless widget and stateful widget is their lifetime, or actually, the state object. ✍
 
 
 III. How-Tos
@@ -52,6 +52,8 @@ III. How-Tos
 2. Add the image file to asset section in pubspec.yml(comments would tell you how to do that)
 3. `Image.asset(...)` 
 
+### ✍
+
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 [emulator-or-simulator]: https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference
 <!--stackedit_data:
@@ -59,7 +61,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-MTIwNjAxNzMwNCwtMTk4NjE1NjE2NywxMzk1Mjg2MDMyLC02MD
-Q0Mzk3MDcsLTMxMzc3MTM3NSwyMDI0NzE4NDE3LC0xMzQ5MjE5
-NTYxLC0xNTYyODI0NDA0XX0=
+LTE2NTM4NjA2NTgsLTE5ODYxNTYxNjcsMTM5NTI4NjAzMiwtNj
+A0NDM5NzA3LC0zMTM3NzEzNzUsMjAyNDcxODQxNywtMTM0OTIx
+OTU2MSwtMTU2MjgyNDQwNF19
 -->
