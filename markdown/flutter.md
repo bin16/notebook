@@ -55,9 +55,11 @@ III. How-Tos
 ### ✍
 
 <!--
-- That first column takes a lot of space, so it must be wrapped in an Expanded widget. https://flutter.io/tutorials/layout/
-- The `softwrap` property indicates whether the text should break on soft line breaks, such as periods or commas.
-- 
+https://flutter.io/tutorials/layout/
+- That first column takes a lot of space, so it must be wrapped in an Expanded widget.
+- The `softwrap` property indicates whether the text should break on soft line breaks, such as periods or commas. 
+- Widgets are classes used to build UIs.
+-   Widgets are used for both layout and UI elements.
 -->
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
@@ -67,7 +69,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-LTcyNDAyMDI3OCwtOTA3NjMwMzYzLC0yMDU5NjE2MTIwLC0xNj
+LTU4MjU3MTUwMywtOTA3NjMwMzYzLC0yMDU5NjE2MTIwLC0xNj
 UzODYwNjU4LC0xOTg2MTU2MTY3LDEzOTUyODYwMzIsLTYwNDQz
 OTcwNywtMzEzNzcxMzc1LDIwMjQ3MTg0MTcsLTEzNDkyMTk1Nj
 EsLTE1NjI4MjQ0MDRdfQ==
