@@ -55,8 +55,9 @@ III. How-Tos
 ### ✍
 
 <!--
+- That first column takes a lot of space, so it must be wrapped in an Expanded widget. https://flutter.io/tutorials/layout/
 
-
+-->
 
 [flutter-windows-sdk]: https://storage.googleapis.com/flutter_infra/releases/beta/windows/flutter_windows_v0.7.3-beta.zip
 [emulator-or-simulator]: https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference
@@ -65,7 +66,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-NTQ2MzcxMTY5LC0xNjUzODYwNjU4LC0xOTg2MTU2MTY3LDEzOT
-UyODYwMzIsLTYwNDQzOTcwNywtMzEzNzcxMzc1LDIwMjQ3MTg0
-MTcsLTEzNDkyMTk1NjEsLTE1NjI4MjQ0MDRdfQ==
+LTIwNTk2MTYxMjAsLTE2NTM4NjA2NTgsLTE5ODYxNTYxNjcsMT
+M5NTI4NjAzMiwtNjA0NDM5NzA3LC0zMTM3NzEzNzUsMjAyNDcx
+ODQxNywtMTM0OTIxOTU2MSwtMTU2MjgyNDQwNF19
 -->
