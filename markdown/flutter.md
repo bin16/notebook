@@ -52,7 +52,9 @@ III. How-Tos
 2. Add the image file to asset section in pubspec.yml(comments would tell you how to do that)
 3. `Image.asset(...)` 
 
-### ✍
+### Questions?
+
+- [ ] What is 'context' in flutter?
 
 <!--
 https://flutter.io/tutorials/layout/
@@ -70,8 +72,8 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE15IEZsdXR0ZXIgTm90ZV
 xuYXV0aG9yOiBaZXJvb2tcbnRhZ3M6ICdGbHV0dGVyLCBBbmRy
 b2lkJ1xuY2F0ZWdvcmllczogRmx1dHRlclxuc3RhdHVzOiBkcm
 FmdFxuZGF0ZTogJzIwMTgtMDktMTcnXG4iLCJoaXN0b3J5Ijpb
-MTU1NjIzNjA0MiwtOTA3NjMwMzYzLC0yMDU5NjE2MTIwLC0xNj
-UzODYwNjU4LC0xOTg2MTU2MTY3LDEzOTUyODYwMzIsLTYwNDQz
-OTcwNywtMzEzNzcxMzc1LDIwMjQ3MTg0MTcsLTEzNDkyMTk1Nj
-EsLTE1NjI4MjQ0MDRdfQ==
+NTIxMDQ5NDQ1LDE1NTYyMzYwNDIsLTkwNzYzMDM2MywtMjA1OT
+YxNjEyMCwtMTY1Mzg2MDY1OCwtMTk4NjE1NjE2NywxMzk1Mjg2
+MDMyLC02MDQ0Mzk3MDcsLTMxMzc3MTM3NSwyMDI0NzE4NDE3LC
+0xMzQ5MjE5NTYxLC0xNTYyODI0NDA0XX0=
 -->
