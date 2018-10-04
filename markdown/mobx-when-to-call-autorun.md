@@ -24,9 +24,9 @@ const authStore = new AuthStore()
 autorun(() => {
 	const { token } = authStore
 
-	requestAgent.setToken(token)
+	requestAgent.setAuthentication(token)
 })
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjA4NTYzNV19
+eyJoaXN0b3J5IjpbOTMxODQ2MTYwXX0=
 -->
