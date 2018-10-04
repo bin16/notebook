@@ -28,9 +28,9 @@ autorun(() => {
 })
 ```
 
-What would happen, when `authStore.loadToken` is called? Answer is, request failed for reason of 401.
+What would happen, when `authStore.loadToken` is called? 
 
-`authStore.setToken` is called `authStore.loadToken`, yes, `authStore.token` is set as well. However, the autorun is called, after the load
+The answer is, request rejected for reason of 401. Because`@action authStore.setToken` is called in `@action authStore.loadToken`, yes, `authStore.token` is set as well. HOWEVER, the autorun is called, after the action `loadToken` is done.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODA1MzcxXX0=
+eyJoaXN0b3J5IjpbODA1MjQ0ODM1XX0=
 -->
