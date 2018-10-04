@@ -1,3 +1,5 @@
+Mobx, when autorun 
+
 Suppose we have a store
 
 ``` javascript
@@ -30,7 +32,9 @@ autorun(() => {
 
 What would happen, when `authStore.loadToken` is called? 
 
-The answer is, request rejected for reason of 401. Because`@action authStore.setToken` is called in `@action authStore.loadToken`, yes, `authStore.token` is set as well. HOWEVER, the autorun is called, after the action `loadToken` is done.
+The answer is, request rejected for reason of 401. Because`@action authStore.setToken` is called in `@action authStore.loadToken`, yes, `authStore.token` is set as well. However, the `@action authStore.loadToken` is not finished, autorun would not be called, before the action `loadToken` is done.
+
+That's all.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MjQ0ODM1XX0=
+eyJoaXN0b3J5IjpbLTEzMTQ3OTEyMjhdfQ==
 -->
