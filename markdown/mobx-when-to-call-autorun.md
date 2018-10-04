@@ -4,11 +4,18 @@ Suppose we have a store
 class AuthStore {
 	@oberservable token
 	@action loadToken() {
-	
+		const token = localStorage.getItem('token')
+		// if token is valid
+		this.getSomeData()
 	}
 	
 	@action setToken(token) {
-		this.token = tok
+		this.token = token
+	}
+
+	@action getSomeData() {
+		requestAgent.getSomeData()
+		// then set data
 	}
 }
 
@@ -21,5 +28,5 @@ autorun(() => {
 })
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUyMDkwMDJdfQ==
+eyJoaXN0b3J5IjpbMTIwNjA4NTYzNV19
 -->
