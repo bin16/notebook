@@ -27,6 +27,10 @@ autorun(() => {
 	requestAgent.setAuthentication(token)
 })
 ```
+
+What would happen, when `authStore.loadToken` is called? Answer is, request failed for reason of 401.
+
+authStore.setToken is called in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODQ2MTYwXX0=
+eyJoaXN0b3J5IjpbMjAyNTE2Mzc5MF19
 -->
